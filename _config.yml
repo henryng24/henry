@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "When you're having a bad day, try doing something nice for someone!"
   - text: "Life is short. Do stuff that matters."
 
-me-img: "https://avatars1.githubusercontent.com/u/7133448?v=3&s=460"
+me-img: "/img/author.png"
 
 ##############################
 # Color the browser elements #
