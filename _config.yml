@@ -32,13 +32,13 @@ author: "Henry Ng"
 title: "Henry Ng"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
-favicon: "/img/favicon.ico"
+favicon: "/img/author.png"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+#black-favicon: "/img/author.png"
 
 background-img: "../img/intro-bg.jpg"
 
@@ -109,13 +109,13 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/sc-logo.png"
     date: "October 2015 - Present"
     description: "Getting the world to go solar"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/author.png"
 
 ###########
 # Contact #
