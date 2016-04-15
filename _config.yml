@@ -54,10 +54,11 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "When we long for a life without difficulties, remind us that oaks grow strong in contrary winds and diamonds were made under pressure."
+  - text: "When you're having a bad day, try doing something nice for someone!"
+  - text: "Life is short. Do stuff that matters."
 
-me-img: "/img/jetpacktocat.png"
+me-img: "https://avatars1.githubusercontent.com/u/7133448?v=3&s=460"
 
 ##############################
 # Color the browser elements #
@@ -109,11 +110,8 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "October 2015 - Present"
+    description: "Getting the world to go solar"
 
 # First image of the Timeline
 
@@ -133,7 +131,7 @@ email: "henryfc.ng@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Henry wants to know what you think! If you think this post would help someone, please share."
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -141,16 +139,16 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
+#  - title: "facebook"
+#    url: "https://facebook.com/"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/henryng24"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+    url: "https://github.com/henryng24"
+#  - title: "bitcoin"
+#    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+#  - title: "rss"
+#    url: "/feed.xml"
 
 ############
 # 404 page #
