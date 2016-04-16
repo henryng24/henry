@@ -15,7 +15,7 @@ url: "http://henryng.co/"
 baseurl: /henryng24.github.com
 # Google tracking id to track your visitors
 
-google-tracking-id: "UA-35880426-4"
+google-tracking-id: "UA-76494877-1"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -31,7 +31,7 @@ lang: "en"
 author: "Henry Ng"
 title: "Henry Ng"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+keywords: "henry, ng, canada, canadian, software, engineer, visa, work, change, education, solar, help, mentor, solarcity, hack reactor, experience"
 favicon: "/img/author.png"
 
 ################
@@ -55,8 +55,8 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "When we long for a life without difficulties, remind us that oaks grow strong in contrary winds and diamonds were made under pressure."
-  - text: "When you're having a bad day, try doing something nice for someone!"
-  - text: "Life is short. Do stuff that matters."
+  - text: "When you're having a bad day, try doing something nice for someone."
+  - text: "Life is short. Be the change you want to see in the world."
 
 me-img: "/img/author.png"
 
@@ -111,7 +111,7 @@ syntax-highlight: True
 events:
   - image: "/img/sc-logo.png"
     date: "October 2015 - Present"
-    description: "Getting the world to go solar"
+    description: "Helping build a brighter future @"
 
 # First image of the Timeline
 
@@ -131,7 +131,7 @@ email: "henryfc.ng@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Henry wants to know what you think! If you think this post would help someone, please share."
+author_blurb: "What do you think? If you think this post would help someone, please share."
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -149,6 +149,8 @@ social:
 #    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
 #  - title: "rss"
 #    url: "/feed.xml"
+  # - title: "linkedin"
+  #   url: "https://linkedin.com/henryng24"
 
 ############
 # 404 page #
