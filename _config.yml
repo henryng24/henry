@@ -131,7 +131,7 @@ email: "henryfc.ng@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "What do you think? If you think this post would help someone, please share."
+author_blurb: "What do you think? If you think this post would help someone, please share!"
 author_blurb_image: "/img/author.png"
 
 ##################
