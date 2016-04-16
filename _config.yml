@@ -28,9 +28,9 @@ force-https: False
 #############
 
 lang: "en"
-author: "Henry Ng"
+author: "HENRYNG.CO"
 title: "Henry Ng"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
+description: "Blog and website of Henry Ng, a blog to help others succeed."
 keywords: "henry, ng, canada, canadian, software, engineer, visa, work, change, education, solar, help, mentor, solarcity, hack reactor, experience"
 favicon: "/img/author.png"
 
@@ -111,7 +111,7 @@ syntax-highlight: True
 events:
   - image: "/img/sc-logo.png"
     date: "October 2015 - Present"
-    description: "Helping build a brighter future @"
+    description: "Helping build a brighter future"
 
 # First image of the Timeline
 
@@ -131,7 +131,7 @@ email: "henryfc.ng@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "What do you think? If you think this post would help someone, please share!"
+author_blurb: "Let me know your thoughts! And if you think this post would help someone, please share!"
 author_blurb_image: "/img/author.png"
 
 ##################
