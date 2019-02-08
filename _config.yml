@@ -112,7 +112,7 @@ events:
   - image: "/img/sc-logo.png"
     date: "October 2015 - February 2016"
     description: "Helping build a brighter future"
-  - image: "/img/tesla-logo.png"
+  - image: "/img/tesla-logo.jpg"
     date: "February 2016 - Present"
     description: "Still helping to build a brighter future"
 
