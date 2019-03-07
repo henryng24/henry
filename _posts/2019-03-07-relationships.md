@@ -113,7 +113,7 @@ A situation that could happen is the significant other deciding on continuing wi
 
 <br>
 
-### __Flatlining_
+### __Flatlining__
 
 It's not surprising when someone feels like the exciting aspect of their relationship is missing from back when they first met, which leads them to make rash decisions to see if the next relationship will provide them this missing feeling. Again, it probably will, but probably just for the first couple of months. Then they'll go through the same phases of a relationship again, and they'll find themselves in a new relationship pursuing that "newness". They think a relationship is defined by Valentine's Day, their anniversary, Christmas, engagement, marriage, or the vacations sprinkled throughout the relationship. Whereas a relationship is actually defined by your regular arbitrary day of the week. So they give up the man or woman who's right in front of them, treats them right, and is in it for forever for this false sense idea of "newness". These gems treat you consistently well, because they know what they want and don't need to fuck around.
 
