@@ -6,32 +6,32 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>http://henryng.co/</loc>
+  <loc>http://henryng.com/</loc>
   <lastmod>2016-04-21T05:03:23+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://henryng.co/categories/education.html</loc>
+  <loc>http://henryng.com/categories/education.html</loc>
   <lastmod>2016-04-21T05:03:23+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://henryng.co/education/2016/04/17/faq.html</loc>
+  <loc>http://henryng.com/education/2016/04/17/faq.html</loc>
   <lastmod>2016-04-21T05:03:23+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://henryng.co/blog/</loc>
+  <loc>http://henryng.com/blog/</loc>
   <lastmod>2016-04-21T05:03:23+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://henryng.co/tags/tutorial.html</loc>
+  <loc>http://henryng.com/tags/tutorial.html</loc>
   <lastmod>2016-04-21T05:03:23+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://henryng.co/tags/education.html</loc>
+  <loc>http://henryng.com/tags/education.html</loc>
   <lastmod>2016-04-21T05:03:23+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
