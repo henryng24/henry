@@ -60,7 +60,7 @@ I hope that puts into perspective how painful either or both situations could be
 
 ### __Creating Boundaries__
 
-I hope when you first met each other and started hanging out, checking each other, being friends, and going on dates, you have come to realize if your partner's values align with yours with respect to relationship boundaries. Remember too that talk is cheap, and that here is where you have to take that giant leap of faith. You have to believe what they say is the truth, or you're signing yourself up for an avalanche of hurt. What are their tendencies? Are they telling me the truth? Eventually, you're going to need to trust this person to make decisions when you can't. Being able to trust another person to do this is no different than trust fall. When you're in a coma, or when you've passed away will they make the same decision that you would?
+I hope when you first met each other and started hanging out, checking each other, being friends, and going on dates, you have come to realize if your partner's values align with yours with respect to relationship boundaries. Remember too that talk is cheap, and that here is where you have to take that giant leap of faith. You have to believe what they say is the truth, or you're signing yourself up for an avalanche of hurt. What are their tendencies? Are they telling me the truth? Eventually, you're going to need to trust this person to make decisions when you can't. Being able to trust another person to do this is no different than trust fall. When you're in a coma, or when you've passed away, will they make the same decision that you would?
 
 The reality is that even if you have this all figured out, there's still a chance things could turn sideways...
 
@@ -115,7 +115,7 @@ A situation that could happen is the significant other deciding on continuing wi
 
 ### __Flatlining__
 
-It's not surprising when someone feels like the exciting aspect of their relationship is missing from back when they first met, which leads them to make rash decisions to see if the next relationship will provide them this missing feeling. Again, it probably will, but probably just for the first couple of months. Then they'll go through the same phases of a relationship again, and they'll find themselves in a new relationship pursuing that "newness". They think a relationship is defined by Valentine's Day, their anniversary, Christmas, engagement, marriage, or the vacations sprinkled throughout the relationship. Whereas a relationship is actually defined by your regular arbitrary day of the week. So they give up the man or woman who's right in front of them, treats them right, and is in it for forever for this false sense idea of "newness". These gems treat you consistently well, because they know what they want and don't need to fuck around.
+It's not surprising when someone feels like the exciting aspect of their relationship is missing from back when they first met, which leads them to make rash decisions to see if the next relationship will provide them this missing feeling. Again, it probably will, but probably just for the first couple of months. Then they'll go through the same phases of a relationship again, and they'll find themselves in a new relationship pursuing that "newness". They think a relationship is defined by Valentine's Day, their anniversary, Christmas, engagement, marriage, or the vacations sprinkled throughout the relationship. Whereas a relationship is actually defined by your regular arbitrary day of the week. So they give up the man or woman who's right in front of them, treats them right, and is in it for forever, in exchange for this false sense idea of "newness". These gems treat you consistently well, because they know what they want and don't need to fuck around.
 
 <br>
 
@@ -125,7 +125,7 @@ It's not surprising when someone feels like the exciting aspect of their relatio
 
 ### __Experiencing the bad to appreciate the good__
 
-Sometimes people will use this reason to rationalize that they need to experience a really bad relationship to activate another dimension of themselves to truly appreciate a really good relationship. Time and time again I will say that there are other ways to learn what you don't want and need instead of getting yourself into a really bad situation for the better parts of your life. It almost feels as if they're looking for trouble...
+Sometimes people will use this reason to rationalize that they need to experience a really bad relationship to activate another dimension of themselves to truly appreciate a really good relationship. Time and time again I will say that there are other ways to learn what's not good for you instead of getting yourself into a really bad situation for the better parts of your life. It almost feels as if they're looking for trouble...
 
 I can't see how it is similar to applying a concept versus reading about a concept, but hopefully once they've experienced the bad, it isn't too late to get back the good.
 
@@ -138,7 +138,7 @@ I can't see how it is similar to applying a concept versus reading about a conce
 
 ### __Who do you want to struggle with?__
 
-The reality is that every relationship is going to go through struggles. The question is not if you're going to have problems, disagreements, or fight. The question is how are you going to deal with them when they come your way. Your commitment to someone could span a lifetime, and you'll be encountering so many different situations together. You're kidding yourself if everything's going to be sunshine and rainbows. Who do you want to bicker with on who takes out the garbage? Who do you want to go through financial difficulties with? Who do you want to work on differences of opinion with? Will they fight for you like you'll fight for them? Will they love you like you're the last?
+The reality is that every relationship is going to go through struggles. The question is not if you're going to have problems, disagreements, or fight. The question is how are you going to deal with them when they come your way. Your commitment to someone could span a lifetime, and you'll be encountering so many different situations together. You're kidding yourself if everything's going to be sunshine and rainbows. Who do you want to bicker with about who takes out the garbage? Who do you want to go through financial difficulties with? Who do you want to work on differences of opinion with? Will they fight for you like you'll fight for them? Will they love you like you're the last?
 
 <br>
 
